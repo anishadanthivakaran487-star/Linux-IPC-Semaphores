@@ -117,12 +117,8 @@ int main() {
 ```
 ## OUTPUT
 $ ./sem.o 
-
+$ ipcs -s
 ![Alt text](image.png)
-
-$ ipcs
-
-![Alt text](image-1.png)
 
 # RESULT:
 The program is executed successfully.
